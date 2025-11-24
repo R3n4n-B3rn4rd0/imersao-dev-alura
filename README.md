@@ -69,41 +69,36 @@ Uma interface de busca interativa para explorar uma base de dados de linguagens 
 └── 📖 README.md         // Documentação do sistema
 ```
 
----
 
-## `[EXECUTION_PROTOCOL]`
+### `[SUMMONING PROTOCOL]`
 
-`[LOG] Iniciando protocolo de execução local...`
+`[Daily Quest: Ative a Interface]`
 
 1.  **`$ git clone https://github.com/R3n4n-B3rn4rd0/base-conhecimento-tech.git`**
-    `[STATUS: Repositório clonado com sucesso.]`
+    `[SYSTEM: Repositório adquirido com sucesso.]`
 
 2.  **`$ cd base-conhecimento-tech`**
-    `[STATUS: Diretório acessado.]`
+    `[SYSTEM: Teleporte para o diretório concluído.]`
 
 3.  **`$ start index.html`**
-    `[LOG: Executando interface no navegador padrão...]`
-    `// Ou utilize a extensão 'Live Server' no VS Code para uma melhor experiência.`
+    `[SYSTEM: Invocando portal no navegador...]`
+    `❗ Recompensa: Para uma experiência aprimorada, utilize a skill 'Live Server'.`
 
----
 
-## `[SYSTEM_AUTHOR]`
+### `[ARCHITECT]`
 
-`[LOG] Carregando informações do autor...`
+`[Analyzing creator's signature...]`
 
 <p align="center">
-  Feito com 💚 por <strong>Renan Bernardo</strong>
+  Criado por <strong>Renan Bernardo</strong>
   <br><br>
-  <a href="https://www.linkedin.com/in/renan-bernardo-61884a32/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/renan-bernardo-dev/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://github.com/R3n4n-B3rn4rd0">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
 
----
 
-`[SESSION_END]`
-
-
-
+`[You have successfully reviewed the system. Closing window...]`

@@ -1,0 +1,55 @@
+<!-- Define o tipo de documento como HTML5, que é a versão mais recente do HTML. -->
+<!DOCTYPE html>
+<!-- A tag <html> é o elemento raiz de uma página HTML. O atributo 'lang' define o idioma principal do documento. -->
+<html lang="pt-BR">
+
+<head>
+    <!-- A tag <head> contém metadados sobre o documento, como título, links para CSS e scripts. -->
+
+    <!-- Define o conjunto de caracteres como UTF-8, que suporta a maioria dos caracteres e símbolos. -->
+    <meta charset="UTF-8">
+    <!-- Configura a viewport para garantir que a página seja exibida corretamente em dispositivos móveis (design responsivo). -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- A tag <title> define o título da página, que aparece na aba do navegador. -->
+    <title>Base de conhecimento</title>
+    <!-- Vincula um arquivo de folha de estilos (CSS) externo para estilizar a página. -->
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <!-- A tag <body> contém todo o conteúdo visível da página web. -->
+
+    <!-- A tag <header> representa o cabeçalho da página, geralmente contendo o título e elementos de navegação ou busca. -->
+    <header>
+        <!-- <h1> é o título principal da página. -->
+        <h1>Base de conhecimento</h1>
+
+        <!-- Um <div> usado como contêiner para os elementos de busca. -->
+        <div class="search-container">
+            <!-- Campo de entrada de texto para o usuário digitar o termo de busca. O ID 'campoBusca' é usado pelo JavaScript. -->
+            <input type="text" id="campoBusca" placeholder="Digite uma linguagem de programação...">
+            <!-- Botão de busca. O evento de clique foi removido pois o JS já escuta as mudanças no input. -->
+            <button id="botao-busca">Buscar</button>
+        </div>
+    </header>
+
+    <!-- A tag <main> especifica o conteúdo principal e único do documento. A classe 'card-container' é usada pelo JS para inserir os cards. -->
+    <main class="card-container">
+        <!-- O conteúdo aqui dentro será gerado dinamicamente pelo script.js -->
+    </main>
+
+    <!-- A tag <footer> representa o rodapé da página, contendo informações como localização e links. -->
+    <footer class="footer">
+        <div class="footer-location">Brasil</div>
+        <!-- <ul> cria uma lista não ordenada para os links do rodapé. -->
+        <ul class="footer-links">
+            <!-- <li> representa um item da lista. -->
+            <li><a href="https://github.com/R3n4n-B3rn4rd0">GitHub</a></li>
+            <li><a href="https://alura.com.br">Alura</a></li>
+        </ul>
+    </footer>
+    <!-- A tag <script> é usada para incorporar ou referenciar um script executável, neste caso, o nosso arquivo JavaScript. -->
+    <script src="script.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,114 @@
+[
+    {
+        "nome": "JavaScript",
+        "descrição": "JS é a linguagem da web",
+        "ano": 1995,
+        "link": "https://developer.mozilla.org/pt-BR/docs/Web/JavaScript",
+        "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png",
+        "tipo": "Linguagem de Script"
+    },
+    {
+        "nome": "Python",
+        "descrição": "Python é uma linguagem de programação de alto nível, interpretada e de propósito geral.",
+        "ano": 1991,
+        "link": "https://www.python.org/pt-br/3.14/",
+        "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg",
+        "tipo": "Multiparadigma"
+    },
+    {
+        "nome": "Java",
+        "descrição": "Java é uma linguagem de programação orientada a objetos, desenvolvida pela Sun Microsystems.",
+        "ano": 1995,
+        "link": "https://www.oracle.com/br/java/",
+        "imagem": "https://www.svgrepo.com/show/452234/java.svg",
+        "tipo": "Orientada a Objetos"
+    },
+    {
+        "nome": "C#",
+        "descrição": "C# é uma linguagem de programação orientada a objetos, desenvolvida pela Microsoft.",
+        "ano": 2000,
+        "link": "https://docs.microsoft.com/pt-br/dotnet/csharp/",
+        "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg",
+        "tipo": "Orientada a Objetos"
+    },
+    {
+        "nome": "Ruby",
+        "descrição": "Ruby é uma linguagem de programação dinâmica, reflexiva e orientada a objetos.",
+        "ano": 1995,
+        "link": "https://www.ruby-lang.org/pt/",
+        "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg",
+        "tipo": "Multiparadigma"
+    },
+    {
+        "nome": "Go",
+        "descrição": "Go é uma linguagem de programação de código aberto desenvolvida pelo Google.",
+        "ano": 2009,
+        "link": "https://go.dev/",
+        "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg",
+        "tipo": "Compilada"
+    },
+    {
+        "nome": "Rust",
+        "descrição": "Rust é uma linguagem de programação de sistemas que roda incrivelmente rápido e garante segurança de memória.",
+        "ano": 2010,
+        "link": "https://www.rust-lang.org/pt-BR",
+        "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg",
+        "tipo": "Linguagem de Sistemas"
+    },
+    {
+        "nome": "TypeScript",
+        "descrição": "TypeScript é um superconjunto de JavaScript que adiciona tipagem estática opcional à linguagem.",
+        "ano": 2012,
+        "link": "https://www.typescriptlang.org/",
+        "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg",
+        "tipo": "Superset de JavaScript"
+    },
+    {
+        "nome": "PHP",
+        "descrição": "PHP é uma linguagem de script de uso geral popular, especialmente adequada para desenvolvimento web.",
+        "ano": 1995,
+        "link": "https://www.php.net/",
+        "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg",
+        "tipo": "Linguagem de Script"
+    },
+    {
+        "nome": "Swift",
+        "descrição": "Swift é uma linguagem de programação poderosa e intuitiva para macOS, iOS, watchOS e tvOS, desenvolvida pela Apple.",
+        "ano": 2014,
+        "link": "https://developer.apple.com/swift/",
+        "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Swift_logo.svg",
+        "tipo": "Multiparadigma"
+    },
+    {
+        "nome": "Kotlin",
+        "descrição": "Kotlin é uma linguagem de programação moderna e estaticamente tipada, usada principalmente para desenvolvimento Android.",
+        "ano": 2011,
+        "link": "https://kotlinlang.org/",
+        "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png",
+        "tipo": "Multiparadigma"
+    },
+    {
+        "nome": "C++",
+        "descrição": "C++ é uma linguagem de programação de propósito geral, comumente usada para software de sistema e aplicações de alto desempenho.",
+        "ano": 1985,
+        "link": "https://isocpp.org/",
+        "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg",
+        "tipo": "Multiparadigma"
+    },
+    {
+        "nome": "Dart",
+        "descrição": "Dart é uma linguagem otimizada para cliente para criar apps rápidos em qualquer plataforma, desenvolvida pelo Google.",
+        "ano": 2011,
+        "link": "https://dart.dev/",
+        "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png",
+        "tipo": "Multiparadigma"
+    },
+    {
+        "nome": "R",
+        "descrição": "R é uma linguagem de programação e ambiente de software livre para computação estatística e gráficos.",
+        "ano": 1993,
+        "link": "https://www.r-project.org/",
+        "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg",
+        "tipo": "Análise Estatística"
+    }
+]

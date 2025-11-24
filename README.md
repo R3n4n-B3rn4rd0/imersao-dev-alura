@@ -31,7 +31,9 @@ Uma interface de busca interativa para explorar uma base de dados de linguagens 
 
 `[LOG] Rendering project demonstration...`
 
-!Demonstração do Projeto
+<p align="center">
+  <img src="https://github.com/R3n4n-B3rn4rd0/base-conhecimento-tech/blob/main/assets/demo.gif?raw=true" alt="Demonstração Animada do Projeto">
+</p>
 
 ---
 
@@ -73,16 +75,32 @@ Uma interface de busca interativa para explorar uma base de dados de linguagens 
 
 `[LOG] Iniciando protocolo de execução local...`
 
-1.  **`$ clone_repository`**
-    ```sh
-    git clone https://github.com/R3n4n-B3rn4rd0/base-conhecimento-tech.git
-    ```
-2.  **`$ access_directory`**
-    ```sh
-    cd base-conhecimento-tech
-    ```
-3.  **`$ execute_interface`**
-    `// Abra o arquivo 'index.html' em seu navegador.`
+1.  **`$ git clone https://github.com/R3n4n-B3rn4rd0/base-conhecimento-tech.git`**
+    `[STATUS: Repositório clonado com sucesso.]`
+
+2.  **`$ cd base-conhecimento-tech`**
+    `[STATUS: Diretório acessado.]`
+
+3.  **`$ start index.html`**
+    `[LOG: Executando interface no navegador padrão...]`
+    `// Ou utilize a extensão 'Live Server' no VS Code para uma melhor experiência.`
+
+---
+
+## `[SYSTEM_AUTHOR]`
+
+`[LOG] Carregando informações do autor...`
+
+<p align="center">
+  Feito com 💚 por <strong>Renan Bernardo</strong>
+  <br><br>
+  <a href="https://www.linkedin.com/in/renan-bernardo-dev/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/R3n4n-B3rn4rd0">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
 
 ---
 

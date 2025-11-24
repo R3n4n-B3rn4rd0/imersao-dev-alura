@@ -94,7 +94,7 @@ Uma interface de busca interativa para explorar uma base de dados de linguagens 
 <p align="center">
   Feito com 💚 por <strong>Renan Bernardo</strong>
   <br><br>
-  <a href="[https://www.linkedin.com/in/renan-bernardo-dev/](https://www.linkedin.com/in/renan-bernardo-61884a32/)">
+  <a href="https://www.linkedin.com/in/renan-bernardo-61884a32/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://github.com/R3n4n-B3rn4rd0">
@@ -105,4 +105,5 @@ Uma interface de busca interativa para explorar uma base de dados de linguagens 
 ---
 
 `[SESSION_END]`
+
 

@@ -69,6 +69,7 @@ Uma interface de busca interativa para explorar uma base de dados de linguagens 
 └── 📖 README.md         // Documentação do sistema
 ```
 
+---
 
 ### `[SUMMONING PROTOCOL]`
 
@@ -84,6 +85,7 @@ Uma interface de busca interativa para explorar uma base de dados de linguagens 
     `[SYSTEM: Invocando portal no navegador...]`
     `❗ Recompensa: Para uma experiência aprimorada, utilize a skill 'Live Server'.`
 
+---
 
 ### `[ARCHITECT]`
 
@@ -100,5 +102,6 @@ Uma interface de busca interativa para explorar uma base de dados de linguagens 
   </a>
 </p>
 
+---
 
 `[You have successfully reviewed the system. Closing window...]`
